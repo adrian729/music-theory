@@ -1,6 +1,6 @@
 {
   "name": "@polyhymnia/music-theory",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Pitch, interval, chord, scale and key theory. Pure TypeScript, no dependencies.",
   "keywords": [
     "music",
